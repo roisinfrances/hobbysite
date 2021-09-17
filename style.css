@@ -32,10 +32,10 @@ h1 {
 
 .navigation ul {
     list-style-type:none;
-    margin: 10px;
+    margin: 8px;
     padding: 0;
     display: flex;
-    /* justify-content: flex-end; */
+    flex-direction:row;
 }
 .navigation a {
     margin: 10px;
