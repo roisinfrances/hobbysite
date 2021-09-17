@@ -5,17 +5,11 @@ body {
 }
 
 .container {
-    max-width: 1000px;
     background: #FFFFFF;
     margin: 0 auto;
     padding: 20px;
 }
 
-.title {
-    color: teal;
-    text-align: center;
-
-}
 h1 {
     text-align: center;
     font-size: 40px;
@@ -48,15 +42,8 @@ h1 {
     background-color: rgb(252, 104, 24);
 }
 
-
-.projects {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
 .projects img {
-    width: 200px;
+    width: 250px;
     margin: 10px;
 }
 
